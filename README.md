@@ -1,5 +1,5 @@
 # 💫 About Me:
- 💫 About Me<br><br>💻 Developer focused on Discord bots and modern web tools.  <br>🌱 Learning **Java, Python, C#**, and more technologies.  <br><br>⚡ Fun fact: I love turning ideas into real working projects.
+ 💫 About Me<br><br>💻 Developer focused on Discord bots and modern web tools.  <br>🌱 Learning **Java, Python, C#, SQL**, and more technologies.  <br><br>⚡ Fun fact: I love turning ideas into real working projects.
 
 <!-- Snake Game Repo View -->
 
