@@ -4,10 +4,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B0B3F,50:6A2C91,100:00D9FF&height=220&section=header&text=Abhinit&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=XHub%20Devs%20-%20Full-Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B0B3F,50:6A2C91,100:00D9FF&height=220&section=header&text=Abhinit&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=B980F0&center=true&vCenter=true&width=760&height=60&lines=Full-Stack+Developer;Building+the+XHub+Ecosystem;Discord+Bots+%2B+Web+Tools+%2B+Automation;Turning+Ideas+Into+Shipped+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=B980F0&center=true&vCenter=true&width=760&height=60&lines=I+am+Abhinit;Full-Stack+Developer;Streaming+Apps+%2B+Chat+Apps+%2B+Discord+Bots;Turning+Ideas+Into+Shipped+Products" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -35,9 +35,9 @@ I'm Abhinit, the developer behind **XHub** — a portfolio of Discord bots, web 
 <summary><b>Currently Building</b></summary>
 <br/>
 
-- Stability and feature work on the **XHub Discord bot** (music embeds, admin panel)
-- **Omnicore** — a minimal, ad-free Android file manager with a hand-drawn sketch UI
-- Expanding **XTools**, a subscription-based Discord toolkit with automated invoicing
+- Expanding **Xstream**, a privacy-first movie streaming platform, across Web and Android
+- Growing **Mino Chat**, an online + offline mesh messaging app
+- Continued stability and feature work on the **XHub Discord bot**
 
 </details>
 
@@ -72,23 +72,23 @@ I'm Abhinit, the developer behind **XHub** — a portfolio of Discord bots, web 
 
 ## Featured Projects
 
-<!-- Swap the bold project names below for [Name](https://github.com/ShadowByte01/repo-name) once you've picked the repo links -->
+<!-- Swap the remaining bold project names for [Name](https://github.com/ShadowByte01/repo-name) once you've picked the repo links -->
 
 | Project | What it does | Category |
 |---|---|---|
 | **XHub Bot v2** | Discord.js v14 bot with rich music embeds and an admin control panel | Discord Bot |
 | **xHub Dashboard** | Web dashboard for managing the whole XHub bot ecosystem | Web Dashboard |
-| **Mimo** | Offline chat plus online chat in one app | Chat / Messaging |
-| **Mimo Extreme** | Movie streaming platform | Media / Streaming |
+| [**Xstream**](https://github.com/ShadowByte01/xstream) ([Web](https://github.com/ShadowByte01/x-stream)) | Premium, privacy-first cinematic streaming — no accounts, AI mood-based recommendations, glassmorphic dark UI, 10+ streaming servers | Flutter + React, Android / Web |
+| [**Mino Chat**](https://github.com/ShadowByte01/MinoChat) | Immersive chat app — 1:1 + group chat, offline BLE/Wi-Fi Direct mesh, live audio/video, voice notes, stories, channels | Flutter + Kotlin + Supabase |
 | **Sage AI** | AI assistant app | AI |
-| **Koko Bot** | High-quality Discord music bot | Discord Bot |
-| **The Crimson** | Custom bot for a GTA 5 roleplay community | Discord Bot |
-| **XTools** | Discord toolkit with subscriptions, email automation, and invoicing | Web / SaaS |
-| **yamdoots-bot** | Automated panel scheduling for recurring roleplay events | Discord Bot |
+| **Koko Bot** | High-quality Discord music bot | discord.js, Kazagumo, Lavalink |
+| **The Crimson** | Custom bot for a GTA 5 roleplay community | discord.js v14, Supabase |
+| **XTools** | Discord toolkit with subscriptions, email automation, and invoicing | Next.js, Supabase |
+| **yamdoots-bot** | Automated panel scheduling for recurring roleplay events | discord.js, Supabase |
 | **Omnicore** | Minimal, ad-free Android file manager with a sketchy hand-drawn UI | Android |
-| **AI Legal Co-Pilot** | Full-stack AI assistant built for Indian lawyers | Full-stack / AI |
+| **AI Legal Co-Pilot** | Full-stack AI assistant built for Indian lawyers | Full-stack, AI |
 | **Lost Weeds by XHub** | Premium tech marketplace storefront | E-commerce |
-| **xHub AI Triage** | Autonomous system that monitors and triages Discord & Instagram DMs | AI / Automation |
+| **xHub AI Triage** | Autonomous system that monitors and triages Discord & Instagram DMs | AI, Automation |
 
 <br/>
 
@@ -96,10 +96,10 @@ I'm Abhinit, the developer behind **XHub** — a portfolio of Discord bots, web 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShadowByte01&show_icons=true&theme=synthwave&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api?username=ShadowByte01&show_icons=true&theme=synthwave&hide_border=true&bg_color=00000000&include_all_commits=true" width="49%" />
 <img src="https://streak-stats.demolab.com/?user=ShadowByte01&theme=outrun&hide_border=true&background=00000000" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowByte01&layout=compact&theme=synthwave&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ShadowByte01&layout=compact&theme=synthwave&hide_border=true&bg_color=00000000" width="49%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShadowByte01&theme=tokyo-night&hide_border=true&bg_color=00000000" width="49%" />
 
 </div>
@@ -110,7 +110,7 @@ I'm Abhinit, the developer behind **XHub** — a portfolio of Discord bots, web 
 
 ### Trophy Case
 
-<img src="https://github-profile-trophy.vercel.app/?username=ShadowByte01&theme=onedark&no-frame=true&no-bg=true&margin-w=6&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=ShadowByte01&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" />
 
 </div>
 
