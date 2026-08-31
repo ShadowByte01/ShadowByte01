@@ -20,12 +20,12 @@
 
 ```
 abhinit@shadowbyte01 ------------------------------
-Host: ..................... XHub Devs
+Host: ..................... Xentara Devs
 Role: ...................... Full-Stack Developer
 Focus: ...................... Discord bots, dashboards, streaming/chat apps
 Experience: ................. 2+ years shipping production Discord systems
 Currently expanding: ......... Java, C#, deeper SQL
-Currently building: .......... Xstream, Mino Chat, XHub bot
+Currently building: .......... Xstream, Mino Chat, Xentara bot
 Status: ...................... Turning ideas into shipped products
 ```
 
@@ -38,7 +38,7 @@ Status: ...................... Turning ideas into shipped products
 
 ## About
 
-I'm Abhinit, the developer behind XHub — a portfolio of Discord bots, web dashboards, desktop tools, and automation systems that real communities run every day.
+I'm Abhinit, the developer behind Xentara — a portfolio of Discord bots, web dashboards, desktop tools, and automation systems that real communities run every day.
 
 - Over two years shipping production-grade Discord systems, from RP moderation bots to SaaS-style toolkits.
 - Comfortable end-to-end: bot backends, management dashboards, desktop utilities, and the automation gluing it all together.
@@ -52,7 +52,7 @@ I'm Abhinit, the developer behind XHub — a portfolio of Discord bots, web dash
 
 - Expanding **Xstream**, a privacy-first movie streaming platform, across Web and Android
 - Growing **Mino Chat**, an online + offline mesh messaging app
-- Continued stability and feature work on the **XHub** Discord bot
+- Continued stability and feature work on the **Xentara** Discord bot
 
 </details>
 
@@ -107,8 +107,8 @@ I'm Abhinit, the developer behind XHub — a portfolio of Discord bots, web dash
 
 | Project | What it does | Category |
 |---|---|---|
-| **XHub Bot v2** | Discord.js v14 bot with rich music embeds and an admin control panel | Discord Bot |
-| **xHub Dashboard** | Web dashboard for managing the whole XHub bot ecosystem | Web Dashboard |
+| **Xentara Bot v2** | Discord.js v14 bot with rich music embeds and an admin control panel | Discord Bot |
+| **Xentara Dashboard** | Web dashboard for managing the whole Xentara bot ecosystem | Web Dashboard |
 | **Xstream (Web)** | Premium, privacy-first cinematic streaming — no accounts, AI mood-based recommendations, glassmorphic dark UI, 10+ streaming servers | Flutter + React, Android / Web |
 | **Mino Chat** | Immersive chat app — 1:1 + group chat, offline BLE/Wi-Fi Direct mesh, live audio/video, voice notes, stories, channels | Flutter + Kotlin + Supabase |
 | **Sage AI** | AI assistant app | AI |
@@ -118,8 +118,8 @@ I'm Abhinit, the developer behind XHub — a portfolio of Discord bots, web dash
 | **yamdoots-bot** | Automated panel scheduling for recurring roleplay events | discord.js, Supabase |
 | **Omnicore** | Minimal, ad-free Android file manager with a sketchy hand-drawn UI | Android |
 | **AI Legal Co-Pilot** | Full-stack AI assistant built for Indian lawyers | Full-stack, AI |
-| **Lost Weeds by XHub** | Premium tech marketplace storefront | E-commerce |
-| **xHub AI Triage** | Autonomous system that monitors and triages Discord & Instagram DMs | AI, Automation |
+| **Lost Weeds by Xentara** | Premium tech marketplace storefront | E-commerce |
+| **Xentara AI Triage** | Autonomous system that monitors and triages Discord & Instagram DMs | AI, Automation |
 
 <br/>
 
