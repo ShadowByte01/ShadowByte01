@@ -1,7 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     XHub Devs — Abhinit · GitHub Profile README
-     ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B0B3F,50:6A2C91,100:00D9FF&height=220&section=header&text=Abhinit&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
@@ -20,44 +16,54 @@
 
 <br/>
 
-About
+### 🖥️ quick facts
+
+```
+abhinit@shadowbyte01 ------------------------------
+Host: ..................... XHub Devs
+Role: ...................... Full-Stack Developer
+Focus: ...................... Discord bots, dashboards, streaming/chat apps
+Experience: ................. 2+ years shipping production Discord systems
+Currently expanding: ......... Java, C#, deeper SQL
+Currently building: .......... Xstream, Mino Chat, XHub bot
+Status: ...................... Turning ideas into shipped products
+```
+
+<br/>
+
+### 🧰 Main Skills
+[![My Skills](https://skillicons.dev/icons?i=c,python,js,ts,nodejs,react,nextjs,html,css,tailwind,sqlite,postgres,git,docker,figma,blender)](https://skillicons.dev)
+
+<br/>
+
+## About
 
 I'm Abhinit, the developer behind XHub — a portfolio of Discord bots, web dashboards, desktop tools, and automation systems that real communities run every day.
 
-Over two years shipping production-grade Discord systems, from RP moderation bots to SaaS-style toolkits.
-
-Comfortable end-to-end: bot backends, management dashboards, desktop utilities, and the automation gluing it all together.
-
-Currently expanding into Java, C#, and deeper SQL.
-
-Recently published a Discord bot hosting guide on GitHub to help other devs skip the trial-and-error.
-
-Fun fact: I like turning half-formed ideas into shipped, working products faster than is probably reasonable.
+- Over two years shipping production-grade Discord systems, from RP moderation bots to SaaS-style toolkits.
+- Comfortable end-to-end: bot backends, management dashboards, desktop utilities, and the automation gluing it all together.
+- Currently expanding into Java, C#, and deeper SQL.
+- Recently published a Discord bot hosting guide on GitHub to help other devs skip the trial-and-error.
+- Fun fact: I like turning half-formed ideas into shipped, working products faster than is probably reasonable.
 
 <details>
 <summary><b>Currently Building</b></summary>
 <br/>
 
-Expanding Xstream, a privacy-first movie streaming platform, across Web and Android
-
-Growing Mino Chat, an online + offline mesh messaging app
-
-Continued stability and feature work on the XHub Discord bot
+- Expanding **Xstream**, a privacy-first movie streaming platform, across Web and Android
+- Growing **Mino Chat**, an online + offline mesh messaging app
+- Continued stability and feature work on the **XHub** Discord bot
 
 </details>
 
 <br/>
 
-Tech Stack
+## Tech Stack
 
 <div align="center">
 
-Languages
+**Languages**
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -65,17 +71,13 @@ Languages
 <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
-Web
-
-
+**Web**
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
 <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
@@ -84,14 +86,12 @@ Web
 <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Three_Fiber-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML_Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
-Tooling & Creative
+**Tooling & Creative**
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
@@ -103,97 +103,27 @@ Tooling & Creative
 
 <br/>
 
-Featured Projects
+## Featured Projects
 
-<!-- Swap the remaining bold project names for [Name](https://github.com/ShadowByte01/repo-name) once you've picked the repo links -->
-
-Project
-
-What it does
-
-Category
-
-XHub Bot v2
-
-Discord.js v14 bot with rich music embeds and an admin control panel
-
-Discord Bot
-
-xHub Dashboard
-
-Web dashboard for managing the whole XHub bot ecosystem
-
-Web Dashboard
-
-Xstream (Web)
-
-Premium, privacy-first cinematic streaming — no accounts, AI mood-based recommendations, glassmorphic dark UI, 10+ streaming servers
-
-Flutter + React, Android / Web
-
-Mino Chat
-
-Immersive chat app — 1:1 + group chat, offline BLE/Wi-Fi Direct mesh, live audio/video, voice notes, stories, channels
-
-Flutter + Kotlin + Supabase
-
-Sage AI
-
-AI assistant app
-
-AI
-
-Koko Bot
-
-High-quality Discord music bot
-
-discord.js, Kazagumo, Lavalink
-
-The Crimson
-
-Custom bot for a GTA 5 roleplay community
-
-discord.js v14, Supabase
-
-XTools
-
-Discord toolkit with subscriptions, email automation, and invoicing
-
-Next.js, Supabase
-
-yamdoots-bot
-
-Automated panel scheduling for recurring roleplay events
-
-discord.js, Supabase
-
-Omnicore
-
-Minimal, ad-free Android file manager with a sketchy hand-drawn UI
-
-Android
-
-AI Legal Co-Pilot
-
-Full-stack AI assistant built for Indian lawyers
-
-Full-stack, AI
-
-Lost Weeds by XHub
-
-Premium tech marketplace storefront
-
-E-commerce
-
-xHub AI Triage
-
-Autonomous system that monitors and triages Discord & Instagram DMs
-
-AI, Automation
+| Project | What it does | Category |
+|---|---|---|
+| **XHub Bot v2** | Discord.js v14 bot with rich music embeds and an admin control panel | Discord Bot |
+| **xHub Dashboard** | Web dashboard for managing the whole XHub bot ecosystem | Web Dashboard |
+| **Xstream (Web)** | Premium, privacy-first cinematic streaming — no accounts, AI mood-based recommendations, glassmorphic dark UI, 10+ streaming servers | Flutter + React, Android / Web |
+| **Mino Chat** | Immersive chat app — 1:1 + group chat, offline BLE/Wi-Fi Direct mesh, live audio/video, voice notes, stories, channels | Flutter + Kotlin + Supabase |
+| **Sage AI** | AI assistant app | AI |
+| **Koko Bot** | High-quality Discord music bot | discord.js, Kazagumo, Lavalink |
+| **The Crimson** | Custom bot for a GTA 5 roleplay community | discord.js v14, Supabase |
+| **XTools** | Discord toolkit with subscriptions, email automation, and invoicing | Next.js, Supabase |
+| **yamdoots-bot** | Automated panel scheduling for recurring roleplay events | discord.js, Supabase |
+| **Omnicore** | Minimal, ad-free Android file manager with a sketchy hand-drawn UI | Android |
+| **AI Legal Co-Pilot** | Full-stack AI assistant built for Indian lawyers | Full-stack, AI |
+| **Lost Weeds by XHub** | Premium tech marketplace storefront | E-commerce |
+| **xHub AI Triage** | Autonomous system that monitors and triages Discord & Instagram DMs | AI, Automation |
 
 <br/>
 
-GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -209,7 +139,7 @@ GitHub Analytics
 
 <div align="center">
 
-Trophy Case
+### Trophy Case
 
 <img src="https://github-profile-trophy.vercel.app/?username=ShadowByte01&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" />
 
@@ -225,7 +155,7 @@ Trophy Case
 
 <br/>
 
-Connect
+## Connect
 
 <div align="center">
 
