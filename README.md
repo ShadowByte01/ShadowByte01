@@ -23,7 +23,7 @@
 ## Studying
 <div align="center">
 
-[![Studying](https://skillicons.dev/icons?i=aws)(https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
+[![Studying](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 </div>
 
