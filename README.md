@@ -20,14 +20,6 @@
 
 <br/>
 
-## Studying
-<div align="center">
-
-[![Studying](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
-
-</div>
-
-<br/>
 
 ## About Me
 
