@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=120&section=header" alt="header"/>
@@ -14,7 +15,7 @@
 ## Main Skills
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,ts,nodejs,react,nextjs,html,css,tailwind,sqlite,postgres,git,docker,figma,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,python,js,nodejs,sqlite,docker,git)](https://skillicons.dev)
 
 </div>
 
@@ -69,7 +70,9 @@ I'm Abhinit, the developer behind **Xentara** — a portfolio of Discord bots, w
 <br/>
 
 <div align="center">
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=90&section=header" alt="border"/>
+
 </div>
 
 <br/>
